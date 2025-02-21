@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-    <title>A Mechanic</title>
-    <link>https://milan722.github.io/AMechanic/index.html</link>
-    <description>News from the home page</description>
+    <title>Pekara Anicic</title>
+    <link>https://milan722.github.io/PekaraaAnicic/</link>
+    <description>Pocetna Strana</description>
 <item>
-    <title>Services</title>
-    <link>https://milan722.github.io/AMechanic/service.html</link>
-    <description>News about our services</description>
+    <title>U ponudi</title>
+    <link>https://milan722.github.io/PekaraaAnicic/#u-ponudi</link>
+    <description>Novo u ponudi</description>
 </item>
 </channel>
 </rss>
