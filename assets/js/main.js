@@ -132,7 +132,7 @@ $(document).ready(function(){
     var descVizija = [
       "Vizija organizacije je da „Pekara Aničić“ bude sinonim za kvalitetnu i ukusnu hranu.",
   
-      "Takođe, želimo da imamo lidersku poziciju na tržištu i da stalnim rastom broja objekata budemo dostupni što većem broju stanovništva, a podizanjem kvaliteta i standarda poveća lojalnost kupaca."
+      "Takođe, želimo da imamo lidersku poziciju na tržištu i da stalnim rastom broja objekata budemo dostupni što većem broju stanovništva, a podizanjem kvaliteta i standarda povećamo lojalnost kupaca."
     ];
     var vizijaDesc = document.querySelector("#vizija-desc");
     var ispisVizijaTekst = `<div class="px-2 px-xl-3 px-md-2 my-3 d-flex flex-column justify-content-center align-items-center d-none">
