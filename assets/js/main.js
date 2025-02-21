@@ -286,7 +286,7 @@ $(document).ready(function(){
   
     var oAutoruTekst = [
       "Zovem se Milan Aničić, rođen sam 19.09.2001. Živim u Beogradu. Pohađao sam srednju tehničku školu „PTT“. Trenutno studiram ICT, smer internet tehnologija. U slobodno vreme volim da igram košarku.",
-      "Programiranje mi je od početka bilo veoma zanimljivo zato što imamo mogućnost da kreiramo solucije i programe koji će nekome olakšati život. Moram mnogo da naučim da bih bio spreman za veće izazove, ali se nadam da ću u budućnosti biti spreman."
+      "Programiranje mi je od početka bilo veoma zanimljivo zato što imamo mogućnost da kreiramo solucije i programe koji će nekome olakšati život."
     ];
     var ispisOAutoru = "";
   
