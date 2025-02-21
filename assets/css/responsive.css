@@ -1,0 +1,173 @@
+@media screen and (max-width:1762px) {
+    footer h3{
+        font-size: 22px;
+    }
+    footer p,footer a{
+        font-size: 18px !important;
+    }
+}
+@media screen and (max-width:1450px) {
+    #vv-cover-1{
+        height: 810px;
+    }
+    .navbar a{
+        font-size:20px;
+    }
+    .pddng{
+        padding:16px 0px !important;
+    }
+    #links i{
+        font-size: 12px;
+    }
+    .vv-fs-26{
+        font-size:24px !important;
+    }
+    .vv-fs-22{
+        font-size:20px !important;
+    }
+    #footer-social i{
+        font-size: 26px;
+    }
+    #footer-social ul a{
+        font-size:14px;
+    }
+    footer h3{
+        font-size: 18px;
+    }
+    footer p,footer a{
+        font-size: 14px !important;
+    }
+
+}
+@media screen and (max-width:1280px){
+    #vv-cover-1{
+        height: 715px;
+    }
+    #vv-welcome{
+        height: 670px;
+    }
+    #desc-block p{
+        font-size: 17px;
+    }
+    h2{
+        font-size:30px;
+    }
+    #main h3{
+        font-size: 28px;
+    }
+    .ponuda-fs{
+        font-size: 18px;
+    }
+    #o-autoru-pic{
+        background-position:center;
+    }   
+    .vv-fs-26{
+        font-size:20px !important;
+    } 
+    .vv-fs-22{
+        font-size:18px !important;
+    } 
+}
+@media screen and (max-width:1199px){
+    .vv-fs-22{
+        font-size:22px !important;
+    }
+    #vv-cover-2{
+        height: 600px;
+    }
+    .ponuda-fs{
+        font-size: 20px;
+    }
+    #o-autoru-pic{
+        background-position:unset;
+    }    
+}
+@media screen and (max-width:1026px) {
+    #vv-welcome{
+        height: 540px;
+    }
+    #vv-cover-1{
+        height: 576px;
+        background-position: top center;
+    }
+    #desc-block button, .carousel-block button{
+        font-size:16px;
+    }
+    #desc-block p{
+        font-size: 20px;
+    }
+    h1{
+        font-size: 26px;
+    }
+    .reserve button{
+        font-size: 18px;
+    }
+}
+@media screen and (max-width:850px) {
+    #o-autoru-pic{
+        background-position:top;
+    }
+    #vv-cover-1{
+        height: 640px;
+    }
+    .vv-h-580{
+        height: 400px;
+    }    
+}
+@media screen and (max-width:720px) {
+    #vv-cover-2{
+        height: 650px;
+    }
+    #vv-welcome{
+        height: 600px;
+    }
+}
+@media screen and (max-width:605px) {
+    #desc-block p{
+        font-size: 16px;
+    }
+    #vv-cover-2{
+        height: 750px;
+    }
+    .reserve button{
+        font-size: 15px;
+    }
+    #vv-cover-1{
+        background-position: top center;        
+    }
+    #vv-welcome{
+        height: 550px;
+    }
+}
+@media screen and (max-width:410px) {
+    #desc-block p{
+        font-size: 14px;
+    }
+    #desc-block button{
+        font-size: 12px;
+    }
+    #vv-cover-2{
+        height: 720px;
+    }
+    #vv-cover-1{
+        height: 485px;
+    }
+    #vv-welcome{
+        height: 450px;
+    }
+    .vv-h-450{
+        height: 320px;
+    }
+    .vv-h-320{
+        height: 190px !important;
+    }
+    .vv-h-580{
+        height: 320px;
+    } 
+    .vv-fs-26{
+        font-size: 17px !important;
+    } 
+    .vv-fs-22{
+        font-size: 16px !important;
+    }
+}
